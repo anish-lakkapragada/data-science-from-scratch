@@ -7,7 +7,7 @@ Here's all the code and examples from the second edition of my book _Data Scienc
 
 If you want to use the code, you should be able to clone the repo and just do things like
 
-```
+```python
 In [1]: from scratch.linear_algebra import dot
 
 In [2]: dot([1, 2, 3], [4, 5, 6])
